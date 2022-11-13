@@ -4,4 +4,4 @@ application = Flask(__name__)
 @application.route('/')
 
 def hello_world():
-	return 'Heyy!'
+	return 'Heyy, Welcome to the page where we deployed using Beanstalk!'
